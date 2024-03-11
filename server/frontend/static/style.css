@@ -124,3 +124,9 @@ img {
   text-align: center;
   box-shadow: 2px 2px 3px #999;
 }
+.card-text {
+  font-size: 20px;
+}
+.card-title {
+  font-size: 28px;
+}
